@@ -1,6 +1,6 @@
 # Gmail Labeler
 
-A tool to automatically label emails in Gmail based on their content.
+A tool to automatically label emails in Gmail based on their content length.
 
 ## How it Works
 
